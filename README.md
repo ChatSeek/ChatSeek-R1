@@ -1,4 +1,4 @@
-# DeepSeek-R1
+# ChatSeek-R1
 <!-- markdownlint-disable first-line-h1 -->
 <!-- markdownlint-disable html -->
 <!-- markdownlint-disable no-duplicate-header -->
